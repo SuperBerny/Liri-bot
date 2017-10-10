@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/SuperBerny/Liri-bot#readme",
   "dependencies": {
+    "node-spotify-api": "^1.0.7",
     "twitter": "^1.7.1"
   }
 }
